@@ -17,16 +17,16 @@ Tic Tac Toe Game
 
 #### Instructions: ####
 
-*Esc-Exit the game
-*Mouse Click - Click on the lower left viewport to play
-*"n"/"N" - Turn On/Off Night mode
-*"f" - Turn On/Off Fog mode
-*"1" - Turn On/Off Red Lamp 
-*"2" - Turn On/Off Green Lamp
-*"3" - Turn On/Off Blue Lamp
-*"w" - Move forward
-*"s" - Move backwards
-*Movement keys - Move your head around
+* Esc-Exit the game
+* Mouse Click - Click on the lower left viewport to play
+* "n"/"N" - Turn On/Off Night mode
+* "f" - Turn On/Off Fog mode
+* "1" - Turn On/Off Red Lamp 
+* "2" - Turn On/Off Green Lamp
+* "3" - Turn On/Off Blue Lamp
+* "w" - Move forward
+* "s" - Move backwards
+* Movement keys - Move your head around
 
 ####Screenshot:####
 <p align="center">
